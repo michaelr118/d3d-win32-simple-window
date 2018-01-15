@@ -3,7 +3,7 @@ A simple native Win32 window in C++ ready for D3D and input. Could be converted 
 
 Usage:
 
-Window::init(L"Window Name", 1280, 720);
+`Window::init(L"Window Name", 1280, 720);
 
 // TODO: init
 
@@ -15,4 +15,4 @@ Window::Hide();
 
 // TODO: cleanup
 
-Window::End();
+Window::End();`
